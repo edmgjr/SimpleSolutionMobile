@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+
+        android:id="@+id/nav_users"
+        android:enabled="true"
+        android:icon="@drawable/usuarios_bt"
+        android:title="Usuários"/>
+
+
+    <item
+        android:id="@+id/nav_turmas"
+        android:icon="@drawable/turmas_bt"
+        android:title="Turmas"/>
+    <item
+        android:id="@+id/nav_atividades"
+        android:icon="@drawable/atividades_bt"
+        android:title="Atividades"/>
+
+    <item
+        android:id="@+id/nav_idiomas"
+        android:icon="@drawable/idiomas_bt"
+        android:title="Idiomas"/>
+
+</menu>
